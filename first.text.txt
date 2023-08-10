@@ -1,2 +1,4 @@
 git practice
 I'm studying workflow basics
+git add
+git commit
